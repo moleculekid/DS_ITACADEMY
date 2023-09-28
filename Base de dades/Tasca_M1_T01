@@ -33,9 +33,11 @@ INSERT INTO tb_genre (genre_id, genre_name, created_by_user, created_date, updat
 VALUES ('69', 'Documental','Sole', '2023-01-02','2023-09-20');
 
 #Exercici 6 (ex.6.png)
-DELETE FROM tb_movie
-WHERE movie_id = 11;
-SELECT * FROM movies.tb_movie;
+DELETE FROM movies.tb_movie_person
+WHERE movie_id = (SELECT movie_id FROM movies.tb_movie WHERE movie_title = 'La Gran Familia Española');
+
+DELETE FROM movies.tb_movie
+WHERE movie_title = 'La Gran Familia Española';
 
 #Exercici 7 (ex.7.png)
 UPDATE movies.tb_movie
