@@ -9,7 +9,7 @@ The main objective of this course was to learn the basic concepts of data scienc
 The course featured an itinerary of 10 thematic modules and a transversal final project. Each of these modules included different self-learning resources and tasks.
 
 - **Sprint 0. Introduction to the course and installation of the working environment:** This module explained what a working environment is, its purpose, and introduced and installed the Jupyter Notebook and Github environments to deliver the exercises.
-- **Sprint 1. Relational databases (SQL):** Basic concepts of SQL were covered, and relational databases were created and queried with MySQL.
+- **Sprint 1 aka Base de dades. Relational databases (SQL):** Basic concepts of SQL were covered, and relational databases were created and queried with MySQL.
 - **Sprint 2. Python basics:** Work was done on basic Python concepts such as data structures and control structures.
 - **Sprint 3. Numerical programming, dataframes, and statistical analysis:** The basic Python packages that allow for statistical treatment of data and work with tables were introduced. The NumPy and Pandas libraries were introduced.
 - **Sprint 4. Graphical visualization of data:** The main packages that enable graphical data visualization were explored, specifically the Matplotlib and Seaborn packages.
