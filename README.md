@@ -16,7 +16,7 @@ The course featured an itinerary of 10 thematic modules and a transversal final 
 - **Sprint 5. Introduction to Machine Learning:** The first concepts of machine learning were introduced along with one of the main data science packages with Python: scikit-learn.
 - **Sprint 6. Supervised learning algorithms: Regression:** The main regression algorithms, their presentation, and their evaluation were covered.
 - **Sprint 7. Supervised learning algorithms: Classification:** The main classification algorithms, their presentation, and how they were evaluated, were covered.
-- **Sprint 8. NON-supervised learning algorithms: Grouping:** The main grouping algorithms, their presentation, and how they were evaluated, were covered.
+- **Sprint 8. Non-supervised learning algorithms: Grouping:** The main grouping algorithms, their presentation, and how they were evaluated, were covered.
 - **Sprint 9. Analysis of sentiment and texts:** Text mining was introduced and explored.
 - **Sprint 10. Web scraping and automation:** The main web scraping packages for Python were presented and utilized in various exercises.
 
@@ -29,8 +29,7 @@ The final project was required to have a professional aspect, meaning it should 
 - Application of algorithms seen throughout the course, which may be useful in the case.
 - Analysis of the extracted information.
 - Conclusions
-
-This project had to be presented and defended in front of colleagues and mentors.
+This project had to be presented and defended in front of colleagues and mentors. It was succesfully done on Wed, 7th February of 2024. 
 
 **Important:**
 
