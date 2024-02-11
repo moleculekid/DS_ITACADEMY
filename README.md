@@ -33,4 +33,6 @@ This project had to be presented and defended in front of colleagues and mentors
 
 **Important:**
 
-All sprints were conducted in Catalan (the institutional language). After receiving approval from my mentor and colleagues, I decided to complete my final project in English to make it accessible to a wider audience.
+All sprints were conducted in Catalan (the institutional language). After receiving approval from my mentor and colleagues, I decided to complete my final project about Analyzing Female Bouldering Results in Climbing Competitions for Olympic Qualification Predictions in English to make it accessible to a wider audience.
+
+Thank you!
