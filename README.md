@@ -1,4 +1,5 @@
 **Data Science Bootcamp at [IT Academy from Barcelona Activa](https://www.barcelonactiva.cat/en/itacademy)**
+September 2023 to February 2024
 
 **Presentation of the course:**
 
